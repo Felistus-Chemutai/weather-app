@@ -1,0 +1,13 @@
+.search-component {
+    width: 80%;
+    height: 40px;
+    border-radius: 25px;
+    margin: 5px;
+
+    input {
+        width: 100%;
+        height: 50px;
+        border-radius: 25px;
+        padding-left: 20px;
+    }
+}

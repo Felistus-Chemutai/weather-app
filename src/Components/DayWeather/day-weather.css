@@ -1,0 +1,22 @@
+.day-weather {
+    width: 100%;
+    height: 56%;
+    margin: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid lightblue;
+    border-radius: 20px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    gap: 4%;
+    margin-top: 10%;
+}
+
+.city {
+    text-transform: capitalize;
+}
